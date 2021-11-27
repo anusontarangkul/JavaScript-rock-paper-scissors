@@ -1,7 +1,7 @@
 # Rock Paper Scissors Game
 
 Fun rock paper scissors game!
-(Deployment)[https://anusontarangkul.github.io/rock-paper-scissors/]
+[Deployment](https://anusontarangkul.github.io/rock-paper-scissors/)
 
 ## Description
 
@@ -26,9 +26,9 @@ Click the hand, paper, or scissors icon to start the game.
 
 ## Credits
 
-David Anusontarangkul
-(LinkedIn)[https://www.linkedin.com/in/anusontarangkul/]
-(Github)[https://github.com/anusontarangkul]
+|                           |                                                                                                                                                                                                       |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **David Anusontarangkul** | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anusontarangkul/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/anusontarangkul) |
 
 Tutorial followed
 (freeCodeCamp)[https://www.youtube.com/watch?v=jaVNP3nIAv0]
