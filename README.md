@@ -31,7 +31,7 @@ Click the hand, paper, or scissors icon to start the game.
 | **David Anusontarangkul** | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anusontarangkul/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/anusontarangkul) |
 
 Tutorial followed
-(freeCodeCamp)[https://www.youtube.com/watch?v=jaVNP3nIAv0]
+[freeCodeCamp](https://www.youtube.com/watch?v=jaVNP3nIAv0)
 
 ## License
 
